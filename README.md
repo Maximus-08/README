@@ -5,10 +5,9 @@ I'm a passionate undergrad based in Gwalior entering into the world of technolog
 ## 🚀 Skills
 
  <p align="left">
-<img src=https://github.com/Mysterio-17/Mysterio-17/blob/main/c.png width=45 height=45></img>
-<img src=https://github.com/AvnishXD/Avnish/blob/main/android_studio.pn width=45 height=45></img>
-<img src=https://github.com/Mysterio-17/Mysterio-17/blob/main/java.png width=45 height=45></img>
-<img src=https://github.com/AvnishXD/Avnish/blob/main/android_studio.png width=45 height=45></img>
+<img src=https://github.com/AvnishXD/Avnish/blob/main/c.png width=45 height=45 alt="C"></img>
+<img src=https://github.com/AvnishXD/Avnish/blob/main/c%2B%2B.png width=45 height=45 alt="C++"></img>
+<img src=https://github.com/AvnishXD/Avnish/blob/main/android_studio.png width=45 height=45 alt="Android studio"></img>
 
 
 </p>
@@ -20,8 +19,8 @@ I'm a passionate undergrad based in Gwalior entering into the world of technolog
 Let's connect and collaborate! You can find me on:
 <div style="text-align: center;">
   
-<a href ="https://www.linkedin.com/in/avnish-jaltare-508abb288/"><img src ="https://github.com/Mysterio-17/Mysterio-17/blob/main/linkedIn.png" width="45" height="45"></a>
-<a href ="https://www.instagram.com/t__mradul_17/"> <img src ="https://github.com/Mysterio-17/Mysterio-17/blob/main/insta.webp" width="45" height="45"></a>
+<a href ="https://www.linkedin.com/in/avnish-jaltare-508abb288/"><img src ="https://github.com/AvnishXD/Avnish/blob/main/linkedIn.png" width="45" height="45"></a>
+<a href ="https://www.instagram.com/maximus_optimus1/"> <img src ="https://github.com/AvnishXD/Avnish/blob/main/insta.webp" width="45" height="45"></a>
 
 
 
