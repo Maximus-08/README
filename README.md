@@ -29,5 +29,5 @@ Let's connect and collaborate! You can find me on:
 I'm always open to collaborating on interesting projects. If you have an idea or want to work together, feel free to reach out!
 
 ## 📬 Contact
-
-You can reach me via email at mradultiwari1708@gmail.com
+<p align="centre">
+<img src="https://github.com/AvnishXD/Avnish/blob/main/download.png" width=45 height=45 alt="Mail"><a href="https://www.gmail.com/in/avnishjaltare8@gmail.com/">
