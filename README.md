@@ -9,7 +9,7 @@ I'm a passionate undergrad based in Gwalior entering into the world of technolog
 <img src=https://github.com/Mysterio-17/Mysterio-17/blob/main/c%2B%2B.png width=45 height=45></img>
 <img src=https://github.com/Mysterio-17/Mysterio-17/blob/main/java.png width=45 height=45></img>
 <img src=https://github.com/Mysterio-17/Mysterio-17/blob/main/android_studio.png width=45 height=45></img>
-<img src=https://github.com/Mysterio-17/Mysterio-17/blob/main/autocad.png width=45 height=45></img>
+
 
 </p>
 
