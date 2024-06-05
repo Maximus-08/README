@@ -30,4 +30,4 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 
 ## 📬 Contact
 <p align="centre">
-<a href="https://www.avnishjaltare8@gmail.com"><img src="https://github.com/AvnishXD/Avnish/blob/main/download.png" width=45 height=45 alt="Mail">
+<a href="mailto:avnishjaltare8@gmail.com"><img src="https://github.com/AvnishXD/Avnish/blob/main/download.png" width=45 height=45 alt="Mail">
